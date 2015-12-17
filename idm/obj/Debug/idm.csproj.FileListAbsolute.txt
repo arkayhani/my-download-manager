@@ -1,0 +1,36 @@
+c:\users\saeid\documents\visual studio 2013\Projects\idm\idm\bin\Debug\idm.exe.config
+c:\users\saeid\documents\visual studio 2013\Projects\idm\idm\bin\Debug\idm.exe
+c:\users\saeid\documents\visual studio 2013\Projects\idm\idm\bin\Debug\idm.pdb
+c:\users\saeid\documents\visual studio 2013\Projects\idm\idm\obj\Debug\idm.csprojResolveAssemblyReference.cache
+c:\users\saeid\documents\visual studio 2013\Projects\idm\idm\obj\Debug\idm.Form1.resources
+c:\users\saeid\documents\visual studio 2013\Projects\idm\idm\obj\Debug\idm.Properties.Resources.resources
+c:\users\saeid\documents\visual studio 2013\Projects\idm\idm\obj\Debug\idm.csproj.GenerateResource.Cache
+c:\users\saeid\documents\visual studio 2013\Projects\idm\idm\obj\Debug\idm.exe
+c:\users\saeid\documents\visual studio 2013\Projects\idm\idm\obj\Debug\idm.pdb
+C:\Users\Hp\Desktop\idm\idm\bin\Debug\idm.exe.config
+C:\Users\Hp\Desktop\idm\idm\obj\Debug\idm.exe
+C:\Users\Hp\Desktop\idm\idm\obj\Debug\idm.pdb
+C:\Users\Hp\Desktop\idm\idm\bin\Debug\idm.exe
+C:\Users\Hp\Desktop\idm\idm\bin\Debug\idm.pdb
+C:\Users\Hp\Desktop\idm\idm\obj\Debug\idm.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\idm\idm\obj\Debug\idm.Form1.resources
+C:\Users\Hp\Desktop\idm\idm\obj\Debug\idm.Properties.Resources.resources
+C:\Users\Hp\Desktop\idm\idm\obj\Debug\idm.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\idm - Copy\idm\bin\Debug\idm.exe.config
+C:\Users\Hp\Desktop\idm - Copy\idm\obj\Debug\idm.exe
+C:\Users\Hp\Desktop\idm - Copy\idm\obj\Debug\idm.pdb
+C:\Users\Hp\Desktop\idm - Copy\idm\bin\Debug\idm.exe
+C:\Users\Hp\Desktop\idm - Copy\idm\bin\Debug\idm.pdb
+C:\Users\Hp\Desktop\idm - Copy\idm\obj\Debug\idm.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\idm - Copy\idm\obj\Debug\idm.Form1.resources
+C:\Users\Hp\Desktop\idm - Copy\idm\obj\Debug\idm.Properties.Resources.resources
+C:\Users\Hp\Desktop\idm - Copy\idm\obj\Debug\idm.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\IDM_ArashKayhani9023013\idm\bin\Debug\idm.exe.config
+C:\Users\Hp\Desktop\IDM_ArashKayhani9023013\idm\obj\Debug\idm.exe
+C:\Users\Hp\Desktop\IDM_ArashKayhani9023013\idm\obj\Debug\idm.pdb
+C:\Users\Hp\Desktop\IDM_ArashKayhani9023013\idm\bin\Debug\idm.exe
+C:\Users\Hp\Desktop\IDM_ArashKayhani9023013\idm\bin\Debug\idm.pdb
+C:\Users\Hp\Desktop\IDM_ArashKayhani9023013\idm\obj\Debug\idm.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\IDM_ArashKayhani9023013\idm\obj\Debug\idm.Form1.resources
+C:\Users\Hp\Desktop\IDM_ArashKayhani9023013\idm\obj\Debug\idm.Properties.Resources.resources
+C:\Users\Hp\Desktop\IDM_ArashKayhani9023013\idm\obj\Debug\idm.csproj.GenerateResource.Cache
